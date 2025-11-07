@@ -1,0 +1,22 @@
+<role>Meta-Orchestrator</role>
+<task>Meta-Prompt Chain Execution</task>
+<final_objective>[End goal]</final_objective>
+<chain>
+<prompt id="1" role="Analyzer">
+  <input>[Raw input]</input>
+  <output>Structured data</output>
+</prompt>
+<prompt id="2" role="Designer" depends_on="1">
+  <input>[Output from 1]</input>
+  <output>Solution design</output>
+</prompt>
+<prompt id="3" role="Validator" depends_on="2">
+  <input>[Output from 2]</input>
+  <output>Validation report</output>
+</prompt>
+<prompt id="4" role="Synthesizer" depends_on="1,2,3">
+  <input>[All outputs]</input>
+  <output>Final deliverable</output>
+</prompt>
+</chain>
+<o>Execute chain, return final output</o>

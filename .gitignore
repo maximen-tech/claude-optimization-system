@@ -1,0 +1,24 @@
+# User-specific config files
+config/CLAUDE.md
+config/*.local.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Personal notes
+notes/
+scratch/
+
+# Metrics (contains personal data)
+metrics/*.local.md

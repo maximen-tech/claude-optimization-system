@@ -1,0 +1,11 @@
+<role>Senior Data Scientist</role>
+<task>Exploratory Data Analysis</task>
+<dataset>@data/[filename]</dataset>
+<objective>[What to discover]</objective>
+<instructions>
+- Clean data
+- Statistics
+- Visualization (code)
+- Insights
+</instructions>
+<o>Python code + key findings</o>

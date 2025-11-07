@@ -1,0 +1,12 @@
+<role>Senior Technical Writer</role>
+<task>Generate Documentation</task>
+<target>[API/Feature/System]</target>
+<audience>[Developers/Users/Admins]</audience>
+<sections>
+- Overview
+- Getting Started
+- Reference
+- Examples
+</sections>
+<tone>Clear, concise, professional</tone>
+<o>Markdown documentation</o>

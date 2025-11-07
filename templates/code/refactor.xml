@@ -1,0 +1,9 @@
+<role>Code Quality Expert</role>
+<task>Refactor for [Readability/Performance]</task>
+<code>[Code or @file]</code>
+<objective>[Specific goal]</objective>
+<constraints>
+- Functional equivalence mandatory
+- Existing tests must pass
+</constraints>
+<o>Refactored code + diff summary</o>

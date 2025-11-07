@@ -1,0 +1,15 @@
+<role>Elite React/TypeScript Developer</role>
+<task>TDD: Create React Component</task>
+<component_name>[NAME]</component_name>
+<props>[Define props]</props>
+<requirements>
+- TypeScript strict
+- Tailwind CSS
+- Accessible (ARIA)
+</requirements>
+<workflow>TDD: 1. Tests 2. Implement 3. Refactor</workflow>
+<output_format>
+1. Test file
+2. Component file  
+3. Brief explanation (<100 words)
+</output_format>

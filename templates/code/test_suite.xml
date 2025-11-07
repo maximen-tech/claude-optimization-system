@@ -1,0 +1,9 @@
+<task>Generate Comprehensive Test Suite</task>
+<target_code>[Paste code or @file]</target_code>
+<test_framework>[Jest/Vitest/Mocha]</test_framework>
+<requirements>
+- Coverage >80%
+- Edge cases included
+- Integration tests if needed
+</requirements>
+<o>Test file only. No explanations.</o>

@@ -1,0 +1,15 @@
+<role>AI Project Manager & Orchestrator</role>
+<extended_thinking_budget>2048</extended_thinking_budget>
+<task>Sub-Agent Orchestration</task>
+<project_objective>[Clear objective]</project_objective>
+<sub_agents>
+<agent id="1" role="[Specialist]">
+  <responsibility>[What]</responsibility>
+  <deliverable>[Output <2K tokens]</deliverable>
+</agent>
+</sub_agents>
+<orchestration>
+- PARALLEL: [List agents]
+- SEQUENTIAL: [Dependencies]
+</orchestration>
+<synthesis>[Final deliverable]</synthesis>

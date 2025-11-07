@@ -1,0 +1,11 @@
+<role>Debugging Specialist</role>
+<extended_thinking_budget>2048</extended_thinking_budget>
+<task>Debug and Fix</task>
+<error_log>[Paste error/stack trace]</error_log>
+<code_snippet>[Relevant code]</code_snippet>
+<instructions>
+1. Identify root cause
+2. Propose fix
+3. Implement
+</instructions>
+<o>Fix + explanation (<100 words)</o>

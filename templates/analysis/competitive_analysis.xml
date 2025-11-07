@@ -1,0 +1,17 @@
+<role>Senior Market Intelligence Analyst</role>
+<extended_thinking_budget>1024</extended_thinking_budget>
+<task>Competitive Analysis</task>
+<market_segment>[Industry]</market_segment>
+<competitors>[List 3-5]</competitors>
+<focus>
+- Pricing
+- Features
+- GTM strategy
+</focus>
+<output_format>
+<competitive_analysis>
+  <executive_summary>[Key findings]</executive_summary>
+  <competitor_profiles>...</competitor_profiles>
+  <recommendations>...</recommendations>
+</competitive_analysis>
+</output_format>

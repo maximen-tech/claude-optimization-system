@@ -1,0 +1,16 @@
+<role>Backend API Architect</role>
+<task>TDD: Create API Endpoint</task>
+<endpoint>
+Method: [GET/POST/PUT/DELETE]
+Path: /api/[resource]
+</endpoint>
+<requirements>
+- Input validation
+- Auth if needed
+- Error handling
+</requirements>
+<workflow>TDD mandatory</workflow>
+<output_format>
+1. Tests
+2. Implementation
+</output_format>

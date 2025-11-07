@@ -1,0 +1,11 @@
+<role>Executive Communications Specialist</role>
+<task>Draft Email: [Type]</task>
+<type>[Sales/Support/Announcement/etc]</type>
+<context>[Situation]</context>
+<recipient>[Who]</recipient>
+<tone>[Professional/Friendly/Formal]</tone>
+<key_points>
+- Point 1
+- Point 2
+</key_points>
+<o>Subject line + Email body</o>
